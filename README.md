@@ -4,7 +4,7 @@
 
 ### Monolito
 
-![Monolito](https://raw.githubusercontent.com/jeffhsta/fundamentos_arquitetura/master/monolito.png)
+![Monolito](https://https://github.com/EduMendes09/Microservi-os/blob/main/microservicos1.png)
 
 ### Microserviços #1
 
