@@ -4,8 +4,8 @@
 
 ### Monolito
 
-![Monolito](https://raw.githubusercontent.com/EduMendes09/Microservi-os/main/microservicos1.png)
-![Monolito](https://raw.githubusercontent.com/EduMendes09/Microservi-os/main/microservicos1PC.png)
+![Monolito](https://raw.githubusercontent.com/EduMendes09/Microservi-os/main/monolito.png)
+![Monolito](https://raw.githubusercontent.com/EduMendes09/Microservi-os/main/monolitoPC.png)
 
 
 
