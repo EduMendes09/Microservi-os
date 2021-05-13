@@ -4,7 +4,7 @@
 
 ### Monolito
 
-![Monolito](https//raw.githubusercontent.com/EduMendes09/Microservi-os/main/microservicos1.png)
+![Monolito](https://raw.githubusercontent.com/EduMendes09/Microservi-os/main/microservicos1.png)
 
 ### Microserviços #1
 
